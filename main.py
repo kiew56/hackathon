@@ -85,7 +85,7 @@ def main(page: ft.Page):
     
     # VARIABLES
     I = ft.Image(
-        src="/Users/kiewmthombeni/Documents/Injury app/my-app/src/assets/home.png",
+        src="/assets/home.png",
         width=260,
         height=260,
     )
