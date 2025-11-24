@@ -1,0 +1,187 @@
+{
+  "abrasions": {
+    "title": "Abrasions (Scrapes)",
+    "description": "A skin injury caused by rubbing or scraping against a rough surface.",
+    "symptoms": [
+      "Red, raw-looking skin",
+      "Mild bleeding",
+      "Pain or stinging sensation"
+    ],
+    "first_aid_steps": [
+      "Wash your hands before touching the wound.",
+      "Rinse the area gently with clean water to remove dirt.",
+      "Clean the wound with mild soap around (not inside) the injury.",
+      "Apply an antiseptic.",
+      "Cover with a clean sterile bandage.",
+      "Change the bandage daily."
+    ],
+    "when_to_seek_help": [
+      "If dirt cannot be removed.",
+      "If redness spreads or pus appears.",
+      "If pain increases after 2–3 days."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "bruises": {
+    "title": "Bruises",
+    "description": "Blood trapped under the skin due to impact or pressure.",
+    "symptoms": [
+      "Blue, purple, or green skin discoloration",
+      "Tenderness or swelling",
+      "Soreness"
+    ],
+    "first_aid_steps": [
+      "Apply a cold pack for 10 to 20 minutes.",
+      "Elevate the bruised area if possible.",
+      "Rest the injured part.",
+      "After 48 hours, use a warm compress to speed healing."
+    ],
+    "when_to_seek_help": [
+      "If the bruise is extremely painful.",
+      "If swelling gets worse.",
+      "If the bruise appears without injury (possible medical issue)."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "burns": {
+    "title": "Burns",
+    "description": "Damage to skin from heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness or blistering",
+      "Pain or swelling",
+      "Peeling skin"
+    ],
+    "first_aid_steps": [
+      "Cool the burn under running water for 10 to 20 minutes.",
+      "Remove tight clothing or jewelry near the burn.",
+      "Cover with a sterile, non-stick bandage.",
+      "Take pain relief if needed.",
+      "Do not pop blisters."
+    ],
+    "when_to_seek_help": [
+      "If the burn is larger than your palm.",
+      "If it affects the face, hands, or genitals.",
+      "If there is black/charred skin."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "cut": {
+    "title": "Cuts (Minor)",
+    "description": "A break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Redness",
+      "Pain"
+    ],
+    "first_aid_steps": [
+      "Apply pressure to stop bleeding.",
+      "Rinse with clean water.",
+      "Clean around the wound with mild soap.",
+      "Apply antiseptic ointment.",
+      "Cover with a sterile bandage."
+    ],
+    "when_to_seek_help": [
+      "If bleeding wont stop after 10 minutes.",
+      "If the cut is deep or gaping.",
+      "If caused by a rusty or dirty object."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "snake_bites": {
+    "title": "Snake Bites",
+    "description": "A wound caused by a snake bite. May be venomous.",
+    "symptoms": [
+      "Two puncture marks",
+      "Swelling or severe pain",
+      "Nausea or difficulty breathing (venom)"
+    ],
+    "first_aid_steps": [
+      "Keep the person calm and still.",
+      "Immobilize the bitten limb.",
+      "Keep the bite below heart level.",
+      "Remove tight items (rings, shoes).",
+      "Wash gently with water—do not scrub.",
+      "Apply a pressure bandage if the snake is venomous.",
+      "Get medical help immediately."
+    ],
+    "when_to_seek_help": [
+      "ANY snake bite needs medical help.",
+      "If swelling spreads quickly.",
+      "If the person struggles to breathe."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "ingrown_nail": {
+    "title": "Ingrown Nail",
+    "description": "When the corner of a nail grows into the skin, causing pain and swelling.",
+    "symptoms": [
+      "Redness and swelling around the nail",
+      "Pain when pressure is applied",
+      "Possible infection with pus"
+    ],
+    "first_aid_steps": [
+      "Soak the foot/finger in warm water for 15 minutes.",
+      "Lift the nail edge gently with clean cotton.",
+      "Apply antiseptic.",
+      "Wear open footwear if possible.",
+      "Trim nails straight across, not curved."
+    ],
+    "when_to_seek_help": [
+      "If infection appears.",
+      "If pain becomes severe.",
+      "If the ingrown nail keeps returning."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "laceration": {
+    "title": "Lacerations (Deep Cuts)",
+    "description": "A deep, jagged tear in the skin.",
+    "symptoms": [
+      "Heavy bleeding",
+      "Wide or gaping wound",
+      "Visible tissue beneath the skin"
+    ],
+    "first_aid_steps": [
+      "Apply firm pressure.",
+      "Raise the injury above heart level.",
+      "Clean gently around the wound.",
+      "Cover with a sterile dressing.",
+      "Do NOT close the wound yourself."
+    ],
+    "when_to_seek_help": [
+      "If bleeding doesn't stop after 10 minutes.",
+      "If the cut is very deep or shows muscle.",
+      "If caused by glass or machinery."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  },
+
+  "tick_bites": {
+    "title": "Tick Bites",
+    "description": "A bite caused by a tick attaching to the skin.",
+    "symptoms": [
+      "Small red bump",
+      "Itching or mild swelling",
+      "Possible rash (sign of infection)"
+    ],
+    "first_aid_steps": [
+      "Use fine tweezers to grasp the tick close to the skin.",
+      "Pull upward steadily without twisting.",
+      "Clean the area with antiseptic.",
+      "Apply an antibiotic cream.",
+      "Monitor for rash or fever."
+    ],
+    "when_to_seek_help": [
+      "If a bulls-eye rash appears.",
+      "If fever or fatigue develops.",
+      "If tick parts remain in the skin."
+    ],
+    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+  }
+}
