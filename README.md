@@ -2,7 +2,7 @@
  # pip install flet opencv-python Pillow ultralytics numpy
 Clone the repository
 # git clone https://github.com/kiew56/hackathon.git
-# cd HealAI
+# 
 Assets
 
 Running on Desktop
