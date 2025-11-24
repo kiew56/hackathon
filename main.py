@@ -11,7 +11,7 @@ import numpy as np
 from ultralytics import YOLO
 
 # Load your .pt model once (fast subsequent calls)
-PT_MODEL_PATH = "/Users/kiewmthombeni/Documents/Injury app/my-app/src/assets/best-5.pt"
+PT_MODEL_PATH = "/assets/best-5.pt"
 model_pt = YOLO(PT_MODEL_PATH)
 
 CLASS_NAMES = ["abrasions", "bruises", "snake_bites", "tick_bites", "burns", "cut", "ingrown_nail", "laceration"]
