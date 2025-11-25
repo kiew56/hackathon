@@ -594,4 +594,4 @@ def main(page: ft.Page):
     switch_page("home")
     page.update()
 
-ft.app(main)
+ft.app(main, assets_dir="assets")
