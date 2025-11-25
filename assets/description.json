@@ -20,7 +20,7 @@
       "If redness spreads or pus appears.",
       "If pain increases after 2–3 days."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Cuts_and_Grazes.mp4?raw=true"
   },
 
   "bruises": {
@@ -42,7 +42,7 @@
       "If swelling gets worse.",
       "If the bruise appears without injury (possible medical issue)."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Cuts_and_Grazes.mp4?raw=true"
   },
 
   "burns": {
@@ -65,7 +65,7 @@
       "If it affects the face, hands, or genitals.",
       "If there is black/charred skin."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Burns.mp4?raw=true"
   },
 
   "cut": {
@@ -88,7 +88,7 @@
       "If the cut is deep or gaping.",
       "If caused by a rusty or dirty object."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Cuts_and_Grazes.mp4?raw=true"
   },
 
   "snake_bites": {
@@ -113,7 +113,7 @@
       "If swelling spreads quickly.",
       "If the person struggles to breathe."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Snake_Bites.mp4?raw=true"
   },
 
   "ingrown_nail": {
@@ -136,7 +136,7 @@
       "If pain becomes severe.",
       "If the ingrown nail keeps returning."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Ingrown_Toenail.mp4?raw=true"
   },
 
   "laceration": {
@@ -159,7 +159,7 @@
       "If the cut is very deep or shows muscle.",
       "If caused by glass or machinery."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Cuts_and_Grazes.mp4?raw=true"
   },
 
   "tick_bites": {
@@ -182,6 +182,6 @@
       "If fever or fatigue develops.",
       "If tick parts remain in the skin."
     ],
-    "video_url": "https://www.youtube.com/shorts/ZW4nevby_DY?feature=share"
+    "video_url": "https://github.com/kiew56/asap/blob/main/Tick.mp4?raw=true"
   }
 }
